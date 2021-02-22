@@ -1,0 +1,7 @@
+server:
+  port: 9101
+spring:
+  application:
+    name: test-server
+logging:
+  config: classpath:logback-spring.xml
